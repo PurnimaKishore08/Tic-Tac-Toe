@@ -14,3 +14,6 @@ Clean and responsive user interface
 HTML – Structure of the game
 CSS – Styling and layout
 JavaScript – Game logic and interactivity
+
+## Live Demo
+[PLAY NOW] https://purnimakishore08.github.io/Tic-Tac-Toe/
